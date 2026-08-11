@@ -9,3 +9,31 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+.director-card {
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.director-card:hover {
+  transform: translateY(-2px);
+}
+
+.director-card.expanded {
+  grid-column: span 2;
+}
+
+.director-full p:first-child {
+  margin-top: 0;
+}
+
+.expand-hint {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  opacity: 0.6;
+}
+
+@media (max-width: 700px) {
+  .director-card.expanded {
+    grid-column: span 1;
+  }
+}

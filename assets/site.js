@@ -19,7 +19,39 @@ async function loadContent(){
   document.querySelector('#theatrical-list').innerHTML=data.musicals.map(detailsMarkup).join('');
   document.querySelector('#instrumental-list').innerHTML=data.instrumental.map(detailsMarkup).join('');
   document.querySelector('#orchestration-list').innerHTML=data.orchestration.map(detailsMarkup).join('');
-  document.querySelector('#director-list').innerHTML=data.director.map(x=>`<article class="card"><h3>${escapeHtml(x.title)}</h3><p>${escapeHtml(shortText(x.desc,180))}</p></article>`).join('');
+
+  // document.querySelector('#director-list').innerHTML=data.director.map(x=>`<article class="card"><h3>${escapeHtml(x.title)}</h3><p>${escapeHtml(shortText(x.desc,180))}</p></article>`).join('');
+
+  document.querySelector('#director-list').innerHTML = data.director.map((x, i) => `
+    <article class="card director-card" tabindex="0" data-index="${i}">
+      <h3>${escapeHtml(x.title)}</h3>
+      <p class="director-summary">${escapeHtml(shortText(x.desc,180))}</p>
+      <div class="director-full" hidden>
+        ${x.desc || ''}
+      </div>
+      <p class="expand-hint">Click to read more</p>
+    </article>
+  `).join('');
+
+  document.querySelectorAll('.director-card').forEach(card => {
+    const toggle = () => {
+      const isOpen = card.classList.toggle('expanded');
+      card.querySelector('.director-summary').hidden = isOpen;
+      card.querySelector('.director-full').hidden = !isOpen;
+      card.querySelector('.expand-hint').textContent =
+        isOpen ? 'Click to close' : 'Click to read more';
+    };
+
+    card.addEventListener('click', toggle);
+
+    card.addEventListener('keydown', e => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        toggle();
+      }
+    });
+  });
+
   document.querySelector('#pianist-list').innerHTML=data.pianist.map(x=>`<article class="mini"><h4>${escapeHtml(x.title)}</h4><p>${escapeHtml(shortText(x.desc,130))}</p></article>`).join('');
   document.querySelector('#teaching-list').innerHTML=data.teaching.map(x=>`<article class="timeline-item"><div class="year">${escapeHtml(x.year||'Selected program')}</div><div><h3>${escapeHtml(x.title)}</h3><p>${escapeHtml(x.desc)}</p></div></article>`).join('');
   document.querySelector('#painting-grid').innerHTML=data.paintings.map(p=>`<figure class="painting"><img src="${OLD_IMAGE_BASE}${encodeURI(p.filename)}" alt="${escapeHtml(p.name)}" loading="lazy" onerror="this.style.minHeight='180px';this.alt='Artwork image will be migrated from the old site';"><figcaption>${escapeHtml(p.name)}</figcaption></figure>`).join('');
