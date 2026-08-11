@@ -1,4 +1,14 @@
 {
-  "generatedAt": "2026-08-11T01:02:52.315369+00:00",
-  "events": []
+  "generatedAt": "2026-08-11T01:17:29.477882+00:00",
+  "events": [
+    {
+      "title": "CCCC Composer Consortium Concert",
+      "start": "2026-10-23T19:30:00-04:00",
+      "end": "2026-10-23T21:00:00-04:00",
+      "allDay": false,
+      "location": "",
+      "description": "",
+      "url": ""
+    }
+  ]
 }
