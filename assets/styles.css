@@ -37,9 +37,21 @@ footer a:hover {
     grid-column: span 1;
   }
 }
+
+.director-card.expanded {
+  grid-column: 1 / -1;
+}
+
+.director-card.expanded .director-full {
+  max-width: 900px;
+}
+
 .director-full img {
   max-width: 100%;
+  max-height: 75vh;
+  width: auto;
   height: auto;
+  object-fit: contain;
   display: block;
   margin: 1rem auto;
 }
