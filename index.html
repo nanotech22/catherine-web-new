@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Catherine Reid — composer, music director, pianist, teacher, and visual artist in Glens Falls, New York.">
+  <title>Catherine Reid — Composer & Artist</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Catherine Reid home">Catherine <span>Reid</span></a>
+    <button class="menu" aria-label="Open menu" aria-expanded="false">Menu</button>
+    <nav aria-label="Primary navigation">
+      <a href="#events">Events</a>
+      <a href="#composer">Music</a>
+      <a href="#director">Music Director</a>
+      <a href="#teacher">Teaching</a>
+      <a href="#painting">Painting</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top">
+      <div class="hero-art" role="img" aria-label="Abstract color field suggesting music and painted brush strokes"></div>
+      <div class="hero-copy">
+        <p class="eyebrow">Composer · Music Director · Pianist · Teacher · Painter</p>
+        <h1>Music in conversation with <em>art, poetry, theater, and people.</em></h1>
+        <p class="lede">Catherine Reid is a Glens Falls–based composer and multidisciplinary artist whose work moves between concert music, opera, music theater, collaboration, teaching, and visual art.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#events">Upcoming events</a>
+          <a class="button ghost" href="#composer">Explore the music</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section events-section" id="events">
+      <div class="section-head">
+        <div><p class="eyebrow">Calendar</p><h2>Upcoming events</h2></div>
+        <p class="section-note">Updated automatically from Catherine’s Google Calendar.</p>
+      </div>
+      <div id="events-list" class="events-grid" aria-live="polite">
+        <div class="event-card loading"><p>Loading upcoming events…</p></div>
+      </div>
+      <p id="events-status" class="status"></p>
+    </section>
+
+    <section class="section" id="composer">
+      <div class="section-head">
+        <div><p class="eyebrow">Composer</p><h2>Works for stage, gallery, and concert hall</h2></div>
+        <p class="section-note">Opera, music theater, commissions, instrumental work, and collaborations.</p>
+      </div>
+      <div id="featured-work" class="featured-grid"></div>
+      <div class="work-columns">
+        <div><h3>Theatrical & vocal works</h3><div id="theatrical-list" class="accordion-list"></div></div>
+        <div><h3>Instrumental</h3><div id="instrumental-list" class="accordion-list"></div><h3 class="subhead">Orchestration</h3><div id="orchestration-list" class="accordion-list"></div></div>
+      </div>
+    </section>
+
+    <section class="section tonal" id="director">
+      <div class="section-head">
+        <div><p class="eyebrow">Music director & pianist</p><h2>From Broadway-adjacent rooms to regional stages</h2></div>
+        <p class="section-note">Music direction, arranging, accompanying, cabaret, theater, radio, and concert work.</p>
+      </div>
+      <div id="director-list" class="cards"></div>
+      <h3 class="subhead">At the piano</h3>
+      <div id="pianist-list" class="mini-grid"></div>
+    </section>
+
+    <section class="section resolutions" id="resolutions">
+      <div class="split">
+        <div>
+          <p class="eyebrow">Performance</p>
+          <h2>The Resolutions</h2>
+          <p>A vocal ensemble performing across the Glens Falls and Lake George area, with Catherine as music director, pianist, and arranger. Their repertoire includes 60s and 70s music, music theater, originals, comedy songs, and romantic ballads.</p>
+          <a class="text-link" href="https://www.youtube.com/watch?v=9Objmgkw7Ng" target="_blank" rel="noopener">Watch a performance ↗</a>
+        </div>
+        <div class="video-wrap"><iframe src="https://www.youtube.com/embed/ytEF0AyoAsg" title="The Resolutions performance" allowfullscreen loading="lazy"></iframe></div>
+      </div>
+    </section>
+
+    <section class="section" id="teacher">
+      <div class="section-head">
+        <div><p class="eyebrow">Teaching</p><h2>Music-making at every level</h2></div>
+        <p class="section-note">Piano, repertoire, ear training, notation, composition, sound design, and Pro Tools.</p>
+      </div>
+      <div class="teaching-intro">
+        <p>Catherine teaches students from age six through adulthood, from beginning through advanced levels, in both standard and contemporary repertoire. Lessons can also include composition and recording technology.</p>
+        <div class="video-wrap"><iframe src="https://www.youtube.com/embed/fYCm80LSsoc" title="Catherine's last Lake George concert" allowfullscreen loading="lazy"></iframe></div>
+      </div>
+      <div id="teaching-list" class="timeline"></div>
+    </section>
+
+    <section class="section tonal" id="painting">
+      <div class="section-head">
+        <div><p class="eyebrow">Visual art</p><h2>Painting as another kind of composition</h2></div>
+        <p class="section-note">A selection from Catherine’s existing gallery.</p>
+      </div>
+      <p class="wide-copy">Catherine grew up in an artistic household and began painting seriously later in life. She also served for about six years as art director and curator of ARTSPACE at the Hudson River Music Hall.</p>
+      <div id="painting-grid" class="painting-grid"></div>
+    </section>
+
+    <section class="section about" id="about">
+      <div class="about-grid">
+        <div><p class="eyebrow">About Catherine</p><h2>A life built around creative connection.</h2></div>
+        <div>
+          <p>Catherine Reid is a composer, music director, arranger, orchestrator, pianist, teacher, gardener, and painter. After retiring from Lake George High School, she has focused more of her time on creating music and musical events.</p>
+          <p>Much of her work explores the relationship between music and visual or spoken art: rhythm and pattern, harmony and color, musical texture, the arc of dance, and the story or emotional atmosphere inside a poem or painting.</p>
+          <p>Her favorite way to create is collaboratively—with writers, singers, composers, musicians, artists, and performers.</p>
+          <a class="button primary" href="mailto:reidkuby@aol.com">Contact Catherine</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer><p>© <span id="year"></span> Catherine Reid. Built as a static site for GitHub Pages.</p></footer>
+  <script src="assets/site.js"></script>
+</body>
+</html>

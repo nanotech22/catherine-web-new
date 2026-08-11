@@ -1,0 +1,726 @@
+{
+  "musicals": [
+    {
+      "title": "The Last Call: A Collaborative Oratorio",
+      "year": "",
+      "desc": "\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/last_call_poster.jpg\" style=\"float:left;\"/>\n\n<div class=\"row\">\n  <img src=\"https://catherine-website.herokuapp.com/static/img/north_country_arts_logo.png\" alt=\"North Country Arts Logo\" style=\"max-width: 160px\">\n  <img src=\"https://catherine-website.herokuapp.com/static/img/larac_logo.png\" alt=\"Larac Logo\" style=\"max-height:80px\">\n</div>\n",
+      "links": [
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1021872871&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/1-last-call-overture-clips\" title=\"1. Last Call Overture Clips\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">1. Last Call Overture Clips</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1021872850&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/2-last-call-last-call-clip-1\" title=\"2. Last Call (Last Call) Clip 1\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">2. Last Call (Last Call) Clip 1</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1021872838&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/3-last-call-largo-clip\" title=\"3. Last Call  Largo Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">3. Last Call  Largo Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1021872820&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/4-last-call-vedas-clip\" title=\"4. Last Call  Vedas Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">4. Last Call  Vedas Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1021872793&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/5-last-call-the-dead-clip\" title=\"5. Last Call  The Dead  Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">5. Last Call  The Dead  Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1021872787&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/6-last-call-the-upanishads-clip\" title=\"6. Last Call  The Upanishads Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">6. Last Call  The Upanishads Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1021872760&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/7-last-call-i-who-have-spoken-clip\" title=\"7. Last Call I Who Have Spoken Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">7. Last Call I Who Have Spoken Clip</a></div>"
+      ],
+      "press": [
+        "https://poststar.com/news/local/last-call-pushes-artistic- boundaries/article_986a737c-35a7-5dfa-968e-d8aaf54ed005.html"
+      ],
+      "credits": [
+        [
+          "Poems by",
+          "Paul Pines"
+        ]
+      ],
+      "buybtn": "\n<div style=\"overflow: auto;\">\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">Last Call: A Collaborative Oratorio CD</p>\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">$15.00 - $20.00</p>\n  <a target=\"_blank\" href=\"https://checkout.square.site/merchant/MLGACAN37843W/checkout/OCF6KQXCRLZUGBAWDXM7MQ6A?src=embed\" style=\"\n    display: inline-block;\n    font-family: Helvetica, Arial, sans-serif;\n    font-size: 18px;\n    line-height: 48px;\n    height: 48px;\n    color: #ffffff;\n    min-width: 165px;\n    background-color: #000000;\n    border-radius: 4px;\n    text-align: center;\n    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;\n  \">Buy now</a>\n</div>\n<p>\n  The <i>Last Call</i> is a song cycle based on several poems by the late Paul Pines. This piece was performed at the Charles R. Wood Theater by 8\n  singers and 5 live musicians along with tracks Catherine prerecorded on ProTools. An art exhibit of members of North Country Art accompanied this performance\n  with art inspired by the poems Catherine chose for the song cycle. \n</p>\n",
+      "hyde": false
+    },
+    {
+      "title": "Holding It All",
+      "year": "",
+      "desc": "\n\n<div class=\"text-center\">\n  <!--Holding it all-->\n  <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/eY22rDKIzhA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</div>\n\n<p>\n  Holding it All is a song cycle based on several poems by the poet Bernice Mennis. Catherine and Anthime Miller \n  each set five poems individually and another two together. <a href=\"https://northcountryarts.org/event/holding-it-all/?instance_id=67\">North Country Arts</a>\n  hosted the above live recorded performance March 20th 2021 at the Strand Theater. \n</p>\n<p>\n  The recording showcases 4 singers (SATB) and 4 musicians (piano, cello, violin, and woodwinds): \n</p>\n<p>Singers: Kerr Gooden, Barbara Zanoni, John Alecci, Mark Collier.</p>\n<p>Instrumentalists: Adam York, Tania Halko Susi, Anthime Miller, and Catherine Reid. </p>\n\n\n<p>\n  An art exhibit of artwork inspired\n  by the poems will accompany this performance. There will be a CD recording that will be available in the Spring. \n  This project is being funded by LARAC through North Country Arts.\n</p>\n",
+      "links": [],
+      "press": [],
+      "credits": [
+        [
+          "Poems by ",
+          "Bernice Mennis"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Pandemic Stories",
+      "year": "",
+      "desc": "\n<p>\n  An original music theater piece with words and music by Camille West-Wodicka and Catherine. This comic and tragic\n  musical is a work in progress and scheduled to be completed very soon.\n</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tfq43ga3fd0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Falling",
+      "year": "",
+      "desc": "\n<p>\n    This piece, with words by Stu Kuby and performed by Laura Roth, from Catherine’s show <i>Andrew Wyeth in Music, Dance, Imagery and Poetry</i> was chosen by\n    the International Alliance of Women in Music for a performance at Howard University (November 2021)\n</p>\n\n<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971945062&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/falling\" title=\"Falling\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Falling</a></div>\n",
+      "links": [],
+      "press": [],
+      "credits": [
+        [
+          "words by",
+          "Stu Kuby"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "The Bark and the Tree",
+      "year": "",
+      "desc": "\n<p>Catherine composed several pieces of music and soundscapes for playwright/actress Vivian Nesbitt. This play was \nperformed at the United solo Festival in NYC in 2019.\n</p>\n<img src=\"https://catherine-website.herokuapp.com/static/img/bark_and_the_tree.png\" alt=\"\"/>\n<img src=\"https://catherine-website.herokuapp.com/static/img/working_on_bark_and_the_tree.png\" alt=\"\"/>\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "The Yellow Wallpaper",
+      "year": "",
+      "desc": "\n\n<p>\n  <i>The Yellow Wallpaper</i> is a 90-minute opera adapted from the book by Charlotte Perkins Gilman composed by Catherine with libretto Judith C. Lane.\n  It is scored for cello, piano, flute and synthesizer and has a cast of 6 women and one man. It tells the tale of a\n  young writer and mother who is forced to undergo the \"rest cure,\" which was the medical advice given at the turn of the\n  century to women who were exhibiting symptoms of \"nervous depression,\" or were otherwise acting in manners that were not\n  acceptable to society. The \"cure\" involved many months of complete bed rest, with no reading, no writing, no visitors\n  and no excitement. The main character in <i>The Yellow Wallpaper</i> (who remains nameless throughout the opera) attempts to\n  abide by her doctor/husband's advice and to undergo the rest cure, but it has tragic consequences.\n</p>\n\n\n<p>\n  The Yellow Wallpaper received a full production at\n  Peabody Conservatory of Music and was a finalist at the Opera Vista International Opera Competition. Catherine and Judith began writing \n  at YADDO and Virginia Center for the Arts writers colonies and developed the opera through staged readings at the Actor’s Playhouse \n  and American Opera Projects. The opera was a Moore Opera Competition and Eugene O’Neill Musical Theater Conference finalist.\n</p>\n<div class=\"text-center\">\n  <img src=\"https://catherine-website.herokuapp.com/static/img/yellow_wallpaper_poster.jpg\" />\n</div>\n",
+      "links": [
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1022270737&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/1-yw-prologue-clip\" title=\"1. YW Prologue Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">1. YW Prologue Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1022270695&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/2-yw-i-only-want-what-is-best-for-you-clip\" title=\"2. YW I Only Want What Is Best For You Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">2. YW I Only Want What Is Best For You Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1022270755&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/3-yw-after-john-leaves-clip\" title=\"3. YW After John Leaves Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">3. YW After John Leaves Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1022270815&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/4-yw-up-and-around-it-goes-clip\" title=\"4. YW Up And Around It Goes Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">4. YW Up And Around It Goes Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1022270941&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/5-yw-you-are-my-darling-clip\" title=\"5. YW You Are My Darling Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">5. YW You Are My Darling Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1022271028&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/6-yw-sex-with-the-wallpaper-clip\" title=\"6. YW Sex With The Wallpaper Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">6. YW Sex With The Wallpaper Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1022271124&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/7-yw-when-i-am-alone-clip\" title=\"7. YW When I Am Alone Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">7. YW When I Am Alone Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1022271277&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/8yw-tell-me-you-see-me-clip\" title=\"8.YW Tell Me You See Me Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">8.YW Tell Me You See Me Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1022271244&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/9yw-the-door-wont-open-clip\" title=\"9.YW The Door Won&#x27;t Open Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">9.YW The Door Won&#x27;t Open Clip</a></div>",
+        "<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1022270710&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/10yw-i-have-to-creep-clip\" title=\"10.YW I Have To Creep Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">10.YW I Have To Creep Clip</a></div>"
+      ],
+      "press": [],
+      "credits": [
+        [
+          "Short Story by ",
+          "Charlotte Perkins Gilman"
+        ],
+        [
+          "Libretto by ",
+          "Judith Lane"
+        ]
+      ],
+      "buybtn": "\n\n<div style=\"overflow: auto;\">\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">Yellow Wallpaper</p>\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">$20.00 - $25.00</p>\n  <a target=\"_blank\" href=\"https://checkout.square.site/merchant/MLGACAN37843W/checkout/D4BVTMXUGCPJ5UCT6NQP3VX7?src=embed\" style=\"\n    display: inline-block;\n    font-family: Helvetica, Arial, sans-serif;\n    font-size: 18px;\n    line-height: 48px;\n    height: 48px;\n    color: #ffffff;\n    min-width: 165px;\n    background-color: #000000;\n    border-radius: 4px;\n    text-align: center;\n    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;\n  \">Buy now</a>\n</div>\n",
+      "hyde": false
+    },
+    {
+      "title": "Cemetery: the musical",
+      "year": "",
+      "desc": "\n(Composer Demo samples).\n\n<p>\n  An original musical with book written by Catherine, Peg Meath, and Laura Roth, with lyrics and music by Catherine\n  intertwining the stories of the lives of several people buried in the Bay Street Cemetery in Glens Falls. \n</p>\n  \n<p>\n  This musical was performed as a staged reading with 10 singers and piano at the Charles R. Wood Theater and was funded\n  by an individual artist grant from LARAC. A new draft is in the works.\n</p>\n\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/cemetery_poster.jpg\" style=\"float:left;\"/>\n",
+      "links": [
+        "<!--I am humanity's Tale--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971945353&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/i-am-humanitys-tale-excerpt\" title=\"I Am Humanity&#x27;s Tale Excerpt\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">I Am Humanity&#x27;s Tale Excerpt</a></div>",
+        ""
+      ],
+      "press": [],
+      "credits": [
+        [
+          "Book written with ",
+          "Peg Meath"
+        ],
+        [
+          "Book, written with ",
+          "Laura Roth"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Nearby Faraway",
+      "year": "",
+      "desc": "\n\n<p>\n  Nearby Faraway is a two-act, full-length musical about the lives and art of Georgia O’Keeffe and her husband Alfred\n  Stieglitz composed for 3 musicians and 4 actors with music by Catherine and libretto by Neal Herr. Its production history includes full-length equity readings co-produced\n  by the York Theater with Beth Dunnington, the Musical Theater Project, and featuring J. K. Simmons\n  and Diane Fratantoni at American Opera Projects, as well as selections and slideshow at the Hyde Collection and the Sagamore Hotel and an\n  NPR feature broadcast on Cabaret Central.\n</p>\n\n\n<h3>Listen</h3>\n\n<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-xs-12 col-md-6\">\n      <!--Nearby Faraway-->\n      <iframe class = \"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/968598202&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-121849780\" title=\"nealherrmusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">nealherrmusic</a> · <a href=\"https://soundcloud.com/user-121849780/nearby-faraway-clip-1\" title=\"Nearby Faraway Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Nearby Faraway Clip</a></div>\n    </div>\n  \n    <div class=\"col-xs-12 col-md-6\">\n      <!--You and I-->\n      <iframe  class = \"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/968597740&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-121849780\" title=\"nealherrmusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">nealherrmusic</a> · <a href=\"https://soundcloud.com/user-121849780/you-and-i-clip-3\" title=\"You And I Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">You And I Clip</a></div>\n    </div>\n  </div>\n  \n  \n  <div class=\"row\">\n    <div class=\"col-xs-12 col-md-6\">\n      <!--Out Here Clip-->\n      <iframe  class = \"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/968598025&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-121849780\" title=\"nealherrmusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">nealherrmusic</a> · <a href=\"https://soundcloud.com/user-121849780/out-here-clip-1\" title=\"Out Here Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Out Here Clip</a></div>\n    </div>\n    \n    \n    <div class=\"col-xs-12 col-md-6\">\n      <!--My Heart is Dry-->\n      <iframe  class = \"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/968598367&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-121849780\" title=\"nealherrmusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">nealherrmusic</a> · <a href=\"https://soundcloud.com/user-121849780/my-heart-is-dry-clip-1\" title=\"My Heart Is Dry Clip\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">My Heart Is Dry Clip</a></div>\n    </div>\n  </div>\n</div>\n\n<div class=\"text-center\">\n  \n  <img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/press_nearby_faraway_off_broadway.jpg\"/>\n  <img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/press_okeeffe_stieglitz.jpg\"/>\n</div>\n\n",
+      "links": [],
+      "press": [],
+      "credits": [
+        [
+          "Libretto by ",
+          "Neal Herr"
+        ]
+      ],
+      "buybtn": "\n<div style=\"overflow: auto;\">\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">Nearby Faraway CD</p>\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">$20.00</p>\n  <a target=\"_blank\" href=\"https://checkout.square.site/merchant/MLGACAN37843W/checkout/NAFQ5MWWR5DPUQBX42XVWTJZ?src=embed\" style=\"\n    display: inline-block;\n    font-family: Helvetica, Arial, sans-serif;\n    font-size: 18px;\n    line-height: 48px;\n    height: 48px;\n    color: #ffffff;\n    min-width: 165px;\n    background-color: #000000;\n    border-radius: 4px;\n    text-align: center;\n    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;\n  \">Buy now</a>\n</div>\n\n",
+      "hyde": false
+    },
+    {
+      "title": "The Colossus of Rhodes",
+      "year": "",
+      "desc": "A play with music by Catherine about the rise and fall of Cecil Rhodes, with libretto by Carey Perloff. It received a full production at the American Conservatory Theater in San Francisco and at the White Barn Theater. The play was developed at the Eugene O’Neill Playwriting Conference, New York Theater Workshop, and the Perry Street Theater.",
+      "links": [
+        "<!--What a mine, Lonny Price--><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043244772&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/what-a-mine-lonny-price-colossus-of-rhodes\" title=\"What A Mine, Lonny Price (Colossus Of Rhodes)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">What A Mine, Lonny Price (Colossus Of Rhodes)</a></div>"
+      ],
+      "press": [],
+      "credits": [
+        [
+          "Libretto by ",
+          "Carey Perloff"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "The Broken Jug",
+      "year": "",
+      "desc": "\n<p>\n  An opera based on the story by Heinrich von Kleist, with libretto by David Ives. Commissioned by American\n  Opera Projects for the Indianapolis Opera Company.\n</p>\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/press_developing_new_opera.jpg\"/>\n\n",
+      "links": [],
+      "press": [],
+      "credits": [
+        [
+          "Story by ",
+          "Heinrich von Kleist"
+        ],
+        [
+          "Libretto by ",
+          "David Ives"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Capablanca",
+      "year": "",
+      "desc": "\n<p>A mini-musical about chess pieces coming to life. Libretto by Anthony Giles. Commissioned by Joseph Papp of the New York Shakespeare Festival.</p>\n\n",
+      "links": [
+        "<!--64 Squares--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1040169358&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/64-squares-from-capablanca\" title=\"64 Squares From Capablanca\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">64 Squares From Capablanca</a></div>",
+        "<!--The Queen Fight--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1040169208&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/the-queen-fight-from-capablanca\" title=\"The Queen Fight From Capablanca\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">The Queen Fight From Capablanca</a></div>",
+        "<!--Ordinary Pawn--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1040169346&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/an-ordinary-pawn-from-capablanca\" title=\"An Ordinary Pawn  From Capablanca\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">An Ordinary Pawn  From Capablanca</a></div>",
+        "<!--Knight Madrigal--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1040169262&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/knight-madrigal-from-capablanca\" title=\"Knight Madrigal From Capablanca\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Knight Madrigal From Capablanca</a></div>",
+        "<!--Eric overcame a Bishop--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1040169328&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/eric-overcame-a-bishop-from-capablanca\" title=\"Eric Overcame A Bishop  From Capablanca\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Eric Overcame A Bishop  From Capablanca</a></div>",
+        "<!--King vs. Pawn--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1040169295&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/king-vs-pawn-from-capablanca\" title=\"King Vs. Pawn From Capablanca\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">King Vs. Pawn From Capablanca</a></div>"
+      ],
+      "press": [],
+      "credits": [
+        [
+          "Libretto by ",
+          "Anthony Giles"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Dorothy Parker",
+      "year": "",
+      "desc": "\n<h3>Dorothy Parker</h3>\n<p>These four musical settings of Dorothy Parker's poems are from a song cycle written for 4 voices (SATB), \ntwo flutes, cello and piano, but also arranged for just piano and SATB.</p>\n",
+      "links": [
+        "<!--For a favorite granddaughter--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043234572&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/for-a-favorite-granddaughter\" title=\"For A Favorite Granddaughter\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">For A Favorite Granddaughter</a></div>",
+        "<!--On cheating the fiddler--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043234551&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/on-cheating-the-fiddler-dorothy-parker\" title=\"On Cheating The Fiddler (Dorothy Parker)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">On Cheating The Fiddler (Dorothy Parker)</a></div>",
+        "<!--Surprise--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043234530&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/surprise-dorothy-parker\" title=\"Surprise (Dorothy Parker)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Surprise (Dorothy Parker)</a></div>",
+        "<!--Temps Perdu--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043234494&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/1-temps-perdu-mp3-clip-from-dorothy-parker-song-cycle-2\" title=\"Temps Perdu (Dorothy Parker)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Temps Perdu (Dorothy Parker)</a></div>"
+      ],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "A Reasonable Kingdom",
+      "year": "",
+      "desc": "\n\n  <p>\n    Reasonable Kingdom – an original fairy tale in verse, with music by Catherine Reid and libretto by Neal Herr,\n    this 18-minute (unpublished) audio book tells the story of a magic-less kingdom in which Suitors to the Princess \n    fail to capture the mercurial Dragon until Laughing Boy sacrifices himself, saving the King’s daughter, securing \n    her hand and returning magic to the Kingdom, 1993.\n  </p>\n\n   <div class=\"text-center col-xs-12\">\n    <img src=\"https://catherine-website.herokuapp.com/static/img/reasonable_kingdom_press.jpg\" style=\"margin: 5px;\"/>\n  </div>\n\n\n",
+      "links": [
+        "<!--Reasonable Kingdom--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/972133957&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/reasonable-kingdom\" title=\"Reasonable Kingdom\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Reasonable Kingdom</a></div>",
+        ""
+      ],
+      "press": [],
+      "credits": [
+        [
+          "Words by ",
+          "Neal Herr"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Musical of the Changing Name",
+      "year": "",
+      "desc": "\n<p>\n  During my collaboration with Phyllis Nagy, we wrote several versions of a musical, changing the name and\n  story line each time. May We Help You is a song from our detective musical <i>Mr. Harrison</i> written for 4 men\n  (moving in sync) and the Seer.\n</p>\n",
+      "links": [
+        "<!--May we Help you--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043239756&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/may-we-help-you-musical-of-the-changing-name\" title=\"May We Help You (Musical Of The Changing Name)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">May We Help You (Musical Of The Changing Name)</a></div>"
+      ],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Good Women of Szechwan",
+      "year": "",
+      "desc": "\n<p>\n  These songs are composer demos from my settings of the poems by Berholt Brecht from his play Good Person of\n  Szechwan. This play with music was performed at The Dalton School in NYC.\n</p>\n",
+      "links": [
+        "<!--You'll blow away, too--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043241868&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/youll-blow-away-too-good-person-of-szechwan\" title=\"You&#x27;ll Blow Away, Too (Good Person Of Szechwan)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">You&#x27;ll Blow Away, Too (Good Person Of Szechwan)</a></div>",
+        "<!--Good Woman--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043241895&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/good-woman-good-women-of-szechwan\" title=\"Good Woman (Good Women of Szechwan)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Good Woman (Good Women of Szechwan)</a></div>"
+      ],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "New Dramatists",
+      "year": "",
+      "desc": "\n<p>This is one of several songs to come out of the New Dramatists workshop run by Ben Krywosz in NYC. It is sung by Barry Carl. </p>\n\n\n",
+      "links": [
+        "<iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043246734&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/the-ringmaster-from-new-dramat\" title=\"The Ringmaster (New Dramatists)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">The Ringmaster (New Dramatists)</a></div>"
+      ],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Antigone",
+      "year": "",
+      "desc": "\nAn opera based on the myth, libretto by Alexa Junge and Catherine. Performed at NYU (MFA Thesis Opera) featuring J. K. Simmons and Diane\nFratatoni.\n",
+      "links": [],
+      "press": [],
+      "credits": [
+        [
+          "Featuring ",
+          "J. K. Simmons"
+        ],
+        [
+          "Featuring ",
+          "Diane Fratatoni"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "The Mystic Trumpeter",
+      "year": "",
+      "desc": "A work for SATB, brass quintet, organ, synthesizer, piano, and hand bells commissioned by the United Methodist Church of Glens Falls for the Glens Falls Centennial. Based on the poem of the same name by Walt Whitman.",
+      "links": [],
+      "press": [],
+      "credits": [
+        [
+          "Poem by ",
+          "Walt Whitman"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Andrew Wyeth in Music, Dance, Imagery, and Poetry",
+      "year": "",
+      "desc": "\n<p>\n  A multi-media evening of original music, dance, imagery and poetry based on the life and work of Andrew\n  Wyeth commissioned by The Hyde Collection Art Museum. Written for five singers (and one rapper) and\n  performed to fully orchestrated tracks and live drums at the Hyde’s Froelich Auditorium.\n</p>\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/press_wyeth.jpg\"/>\n",
+      "links": [
+        "<!--Brass Quintet--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971923501&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/brass-quintet\" title=\"Brass Quintet\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Brass Quintet</a></div>",
+        "<!--Soaring--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971923531&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/soaring\" title=\"Soaring\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Soaring</a></div>",
+        "<!--Breakup--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971923561&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/breakup\" title=\"Breakup\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Breakup</a></div>",
+        "<!--Dear Lovely Death, Scott Jarret--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971923633&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/dear-lovely-death-scott-jarrett\" title=\"Dear Lovely Death, Scott Jarrett\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Dear Lovely Death, Scott Jarrett</a></div>",
+        "<!--Christina's World--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971923654&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/christinas-world\" title=\"Christina&#x27;s World\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Christina&#x27;s World</a></div>",
+        "<!--Helga Dreaming--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971923690&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/helgadreaming\" title=\"Helga/Dreaming\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Helga/Dreaming</a></div>",
+        ""
+      ],
+      "press": [
+        "https://poststar.com/lifestyles/artists-inspired-by-wyeth- s-work/article_55cfc5c6-b495-11df-b441-001cc4c03286.html"
+      ],
+      "credits": [],
+      "buybtn": "\n\n<div style=\"overflow: auto;\">\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">Music Inspired by exhibits at the Hyde Collection</p>\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">$15.00 - $20.00</p>\n  <a target=\"_blank\" href=\"https://checkout.square.site/merchant/MLGACAN37843W/checkout/3VXS56QH4ULDVBG4NY7UGSDR?src=embed\" style=\"\n    display: inline-block;\n    font-family: Helvetica, Arial, sans-serif;\n    font-size: 18px;\n    line-height: 48px;\n    height: 48px;\n    color: #ffffff;\n    min-width: 165px;\n    background-color: #000000;\n    border-radius: 4px;\n    text-align: center;\n    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;\n  \">Buy now</a>\n</div>\n\n",
+      "hyde": true
+    },
+    {
+      "title": "A Collection in Concert",
+      "year": "",
+      "desc": "\n<p>\n  <i>Collection in Concert</i> consists of 11 commissioned compositions based on pieces of artwork that are in the permanent collection of the\n  Hyde Collection. Written for a 12-piece chamber orchestra and four singers (SATB) and performed at the\n  Hyde’s Froelich Auditorium.\n</p>\n<img src=\"https://catherine-website.herokuapp.com/static/img/collection_in_concert_hyde_flyer.jpg\"/>\n",
+      "links": [
+        "<!--Greek Mourning Woman--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971929624&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/greek-mourning-woman-live\" title=\"Greek Mourning Woman Live\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Greek Mourning Woman Live</a></div>",
+        "<!--Vanitas--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971929573&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/vanitas\" title=\"Vanitas\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Vanitas</a></div>",
+        "<!--Coco (with Jonathan Newell)--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971929570&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/coco-duet-with-jonathan-newell\" title=\"Coco (Duet with Jonathan Newell)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Coco (Duet with Jonathan Newell)</a></div>",
+        "<!--River God--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971929546&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/river-god-midi\" title=\"River God Midi\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">River God Midi</a></div>",
+        "<!--Virgin Mary--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971929561&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/virgin-mary-midi\" title=\"Virgin Mary Midi\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Virgin Mary Midi</a></div>",
+        "<!--Rembrandt Christ with folded arms--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971929600&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/rembrandts-christ-with-folded-arms-midi\" title=\"Rembrandt&#x27;s Christ with Folded Arms (Midi)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Rembrandt&#x27;s Christ with Folded Arms (Midi)</a></div>",
+        ""
+      ],
+      "press": [
+        "https://poststar.com/lifestyles/the-sound-of-rembrandt/article_33268498-4d38- 5b5c-83cb-80b969a7401c.html"
+      ],
+      "credits": [],
+      "buybtn": "\n\n<div style=\"overflow: auto;\">\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">Music Inspired by exhibits at the Hyde Collection</p>\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">$15.00 - $20.00</p>\n  <a target=\"_blank\" href=\"https://checkout.square.site/merchant/MLGACAN37843W/checkout/3VXS56QH4ULDVBG4NY7UGSDR?src=embed\" style=\"\n    display: inline-block;\n    font-family: Helvetica, Arial, sans-serif;\n    font-size: 18px;\n    line-height: 48px;\n    height: 48px;\n    color: #ffffff;\n    min-width: 165px;\n    background-color: #000000;\n    border-radius: 4px;\n    text-align: center;\n    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;\n  \">Buy now</a>\n</div>\n\n",
+      "hyde": true
+    },
+    {
+      "title": "Degas: His Love, His Women, His Art",
+      "year": "",
+      "desc": "",
+      "links": [
+        "<!--Little Dancer, 14--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971945173&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/little-dancer-of-14-years-statue-by-degas\" title=\"Little Dancer of 14 Years (Statue by Degas)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Little Dancer of 14 Years (Statue by Degas)</a></div>",
+        ""
+      ],
+      "press": [],
+      "credits": [],
+      "buybtn": "\n\n<div style=\"overflow: auto;\">\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">Music Inspired by exhibits at the Hyde Collection</p>\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">$15.00 - $20.00</p>\n  <a target=\"_blank\" href=\"https://checkout.square.site/merchant/MLGACAN37843W/checkout/3VXS56QH4ULDVBG4NY7UGSDR?src=embed\" style=\"\n    display: inline-block;\n    font-family: Helvetica, Arial, sans-serif;\n    font-size: 18px;\n    line-height: 48px;\n    height: 48px;\n    color: #ffffff;\n    min-width: 165px;\n    background-color: #000000;\n    border-radius: 4px;\n    text-align: center;\n    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;\n  \">Buy now</a>\n</div>\n\n",
+      "hyde": true
+    }
+  ],
+  "instrumental": [
+    {
+      "title": "Coming Home (Symphonic Fanfare)",
+      "year": "",
+      "desc": "\n<p>An orchestral overture commissioned and performed by the Glens Falls Symphony for the Glens Falls Centennial.</p>\n<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1005195862&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/coming-home-symphonic-fanfare-midi-1\" title=\"Coming Home, Symphonic Fanfare\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Coming Home, Symphonic Fanfare</a></div>\n<img src=\"https://catherine-website.herokuapp.com/static/img/coming_home_press.jpg\" class=\"col-xs-12\"/>\n<img src=\"https://catherine-website.herokuapp.com/static/img/centennial_blurb_press.jpg\" class=\"col-xs-12\"/>\n",
+      "links": [
+        "<!--Coming Home, Symphonic Fanfare--><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971945137&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/coming-home-symphonic-fanfare-midi\" title=\"Coming Home, Symphonic Fanfare, Midi\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Coming Home, Symphonic Fanfare, Midi</a></div>",
+        ""
+      ],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Scrapbook Quartet",
+      "year": "",
+      "desc": "\n<p>\n    An autobiographical string quartet written after my father's passing.\n</p>\n    \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6\">\n                    Movement 1 : The RV Trips\n                    <div>\n                        <!--String Quartet First movement-->\n                        <iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/981103906&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/string-quartet-first-movement\" title=\"String Quartet First Movement\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">String Quartet First Movement</a></div>\n                        \n                    </div>\n                </div>\n            \n            \n        \n                <div class=\"col-xs-12 col-md-6\">\n                    Movement 2 : The Giraffe in the Attic\n                    <div>\n                        <!--String quartet second movement -->\n                        <iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/981103852&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/string-quartet-second-movement\" title=\"String Quartet Second Movement\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">String Quartet Second Movement</a></div>\n                    \n                    </div>\n                </div>\n                    \n            </div>\n        \n        \n    \n            \n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6\">\n                    Movement 3 : Summers on Lake George\n                    <div>\n                        <!--String Quartet third movement-->\n                        <iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/981103834&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/string-quartet-third-movement\" title=\"String Quartet Third Movement\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">String Quartet Third Movement</a></div>\n                    \n                    </div>\n                </div>\n            </div>\n        </div>\n\n\n\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "\n\n<div style=\"overflow: auto;\">\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">Scrapbook Quartet</p>\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">$5.00</p>\n  <a target=\"_blank\" href=\"https://checkout.square.site/merchant/MLGACAN37843W/checkout/W6UG35Z3EAUGTQ2K7FBINMJV?src=embed\" style=\"\n    display: inline-block;\n    font-family: Helvetica, Arial, sans-serif;\n    font-size: 18px;\n    line-height: 48px;\n    height: 48px;\n    color: #ffffff;\n    min-width: 165px;\n    background-color: #000000;\n    border-radius: 4px;\n    text-align: center;\n    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;\n  \">Buy now</a>\n</div>\n\n\n",
+      "hyde": false
+    },
+    {
+      "title": "Bring Forth",
+      "year": "",
+      "desc": "<p>For piano solo.</p><iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1005178285&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/bring-forth-piano-piece\" title=\"Bring Forth (piano Piece)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Bring Forth (piano Piece)</a></div>",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "\n<div style=\"overflow: auto;\">\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">Bring Forth (piano solo)</p>\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">$5.00</p>\n  <a target=\"_blank\" href=\"https://checkout.square.site/merchant/MLGACAN37843W/checkout/AOQRKWVZHGQYIMZSJI4LTZSA?src=embed\" style=\"\n    display: inline-block;\n    font-family: Helvetica, Arial, sans-serif;\n    font-size: 18px;\n    line-height: 48px;\n    height: 48px;\n    color: #ffffff;\n    min-width: 165px;\n    background-color: #000000;\n    border-radius: 4px;\n    text-align: center;\n    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;\n  \">Buy now</a>\n</div>\n\n",
+      "hyde": false
+    },
+    {
+      "title": "Homage to Satie #2",
+      "year": "",
+      "desc": "\n<p>For piano solo. </p>\n<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1005178036&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/homage-to-satie-2\" title=\"Homage to Satie #2\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Homage to Satie #2</a></div>\n\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "\n<div style=\"overflow: auto;\">\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">Homage to Satie #2 (piano solo)</p>\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">$5.00</p>\n  <a target=\"_blank\" href=\"https://checkout.square.site/merchant/MLGACAN37843W/checkout/YLN4Y6SI4UVVFAX46L6EZG2U?src=embed\" style=\"\n    display: inline-block;\n    font-family: Helvetica, Arial, sans-serif;\n    font-size: 18px;\n    line-height: 48px;\n    height: 48px;\n    color: #ffffff;\n    min-width: 165px;\n    background-color: #000000;\n    border-radius: 4px;\n    text-align: center;\n    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;\n  \">Buy now</a>\n</div>\n",
+      "hyde": false
+    },
+    {
+      "title": "Homage to Debussy",
+      "year": "",
+      "desc": "\n<p>For piano solo. </p>\n\n<!--Homage to Debussy-->\n<iframe class=\"cliplink\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/981103891&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/user-67090259\" title=\"ReidMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ReidMusic</a> · <a href=\"https://soundcloud.com/user-67090259/homage-to-debussy\" title=\"Homage to Debussy\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Homage to Debussy</a></div>\n\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "\n<div style=\"overflow: auto;\">\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">Homage to Debussy (piano solo)</p>\n  <p style=\"\n    font-family: SQ Market;\n    font-size: 18px;\n    line-height: 24px;\n    font-weight: 500;\n  \">$5.00</p>\n  <a target=\"_blank\" href=\"https://checkout.square.site/merchant/MLGACAN37843W/checkout/JXMPO7VNYMHIRAYXRN4B6LWN?src=embed\" style=\"\n    display: inline-block;\n    font-family: Helvetica, Arial, sans-serif;\n    font-size: 18px;\n    line-height: 48px;\n    height: 48px;\n    color: #ffffff;\n    min-width: 165px;\n    background-color: #000000;\n    border-radius: 4px;\n    text-align: center;\n    box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;\n  \">Buy now</a>\n</div>\n",
+      "hyde": false
+    }
+  ],
+  "director": [
+    {
+      "title": "The Resolutions",
+      "year": "",
+      "desc": "\n<p>\n    A performing group of 6 singer/actors (Gisella Case, Debbie Gecewicz, Camille West-Wodicka,\n    Avery Babson, Dan Slavin, and Catherine) with arrangements by Catherine. This group has performed all over the Capital\n    Region to much acclaim.\n</p>\n<p>\n    Listen to us perform on the Resolutions page. \n</p>\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Wild Women Productions",
+      "year": "",
+      "desc": "\n<p>\n    Created, (with Laura Roth, Nancy Timpanaro-Hogan, Sandra Bargman,\n    Brenna Bavis and Kelly Sweeney) music directed and accompanied several\n    musicals/cabarets including Wild Women Blues, Wild Women Swing, Two Mrs. One Hit, and Wild Women Soul.\n    These were performed at the Duplex in NYC, and in Saratoga: Spa Little Theater, The Arts Council, The\n    Adelphi Hotel, City Hall, Congress Casino, and Lillian’s.\n</p>\n\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/press_cant_get_enough_wild_women.jpg\" class = \"col-xs-12\"/>\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/press_return_of_the_wild_women.jpg\" class = \"col-xs-12\"/>\n<img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/press_wild_women_blues.jpg\" class = \"col-xs-12\"/>\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/wild_women_revival.jpg\" class = \"col-xs-12\"/>\n\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "The Resistible Rise of Arturo Ui",
+      "year": "",
+      "desc": "\n<p>\n    This show, written by Berthold Brecht, ran for several weeks at the Classic Stage Company (CSC) in NYC. It was directed\n    by Carey Perloff, music directed by Catherine and starred John Turturro, David Patrick Kelly, and Zach Grenier, with music by\n    David Lang. The Resistible Rise chronicles the rise of Arturo Ui, a fictional 1930s Chicago mobster, and is a satirical\n    allegory of the rise of Adolf Hitler and the Nazi Party in Germany prior to World War II.\n</p>\n\n<p>Read the review of this production in the <a href=\"https://www.nytimes.com/1991/05/09/theater/review-theater-brecht-s-cauliflower-king-in-another-resistible-rise.html\">New York Times</a>. </p>\n\n",
+      "links": [],
+      "press": [],
+      "credits": [
+        [
+          "Written by ",
+          "Berthold Brecht"
+        ],
+        [
+          "Directed by ",
+          "Carey Perloff"
+        ],
+        [
+          "Starring ",
+          "John Turturro"
+        ],
+        [
+          "Starring ",
+          "David Patrick Kelly"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Dramatists Guild",
+      "year": "",
+      "desc": "\n<p>\n    Catherine performed and music directed at the Dramatists Guild in NYC for music\n    theater panels that included Stephen Sondheim, Arthur Laurents, Peter Stone,\n    Martin Charnin, Tom Jones, and Gretchen Cryer.\n</p>\n\n<h3>Shows:</h3>\n<ul>\n    <li>Partners in Crime by <a href=\"http://www.nealsongs.com/\">Neal Herr</a> and Brent Sanders</li>\n    <li>Dada Ducks by <a href=\"http://www.nealsongs.com/\">Neal Herr</a> and Tim Anderson</li>\n    <li>Spring Awakening by Jane Kamorov and <a href=\"https://composersforum.org/members/judithclane/\">Judith C. Lane</a></li>\n</ul>\n\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "One Night Stand",
+      "year": "",
+      "desc": "\n<p>\n    Several “One Night Stand” staged readings featuring new composers of music theater at Soho Rep Theater with (producer\n    Marlene Swartz). Catherine was the music director and music coordinator as well as one of the featured composers of\n    works that included collaborations with Phyllis Nagy, Anita Hollander, and Neal Herr.\n</p>\n\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/press_one_night_stand.jpg\"/>\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Cradle to Crone",
+      "year": "",
+      "desc": "\n<p>\n    Cradle to Crone, written by Catherine and Laura Roth, is a comedy using found and original music,\n    that chronicles five women whose paths cross many times from birth to old age. It was performed\n    several times in the Glens Falls area.\n</p>\n<img src=\"https://catherine-website.herokuapp.com/static/img/cradle_to_crone_press.jpg\"/>\n\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Four Divas in Concert",
+      "year": "",
+      "desc": "\n\n<p>\n    The Charles R. Wood Theater presented an evening of music that Catherine arranged\n    for performers Laura Roth, Gisella Case, Pat Phillips and Debbie Gecewicz. \n    This was a benefit for the Glens Falls Symphony.\n</p>\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/4_divas_motorcycle.jpg\"/>\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/4_divas_press.jpg\"/>\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Local and Regional Theater",
+      "year": "",
+      "desc": "\n<p>\n    Music directed and was pianist for musicals for schools, theaters, and theater companies which include: Bye Bye Birdie,\n    Godspell, Fantasticks, Be More Chill, Guys and Dolls, Damn Yankees, Getting My Act Together and Taking it on the Road,\n    Nunsense, Baby, Secret Garden, We will Rock You, Crazy for You, Les Miserables, Spamalot, Changing Minds, Blood\n    Brothers, South Pacific, Dear Evan Hansen, A Chorus Line, A Funny Thing Happened on the Way to the Forum, Anything Goes,\n    Grease, Once on This Island, Cabaret, Good News, etc.\n</p>\n\n<img src=\"https://catherine-website.herokuapp.com/static/img/music_dir/godspell_poster.jpg\"/>\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    }
+  ],
+  "pianist": [
+    {
+      "title": "Romulus Hunt",
+      "year": "",
+      "desc": "Pianist for Carly Simon for her children’s opera at the Metropolitan Opera Company.",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Cabaret Central",
+      "year": "",
+      "desc": "Music director and pianist for a weekly radio program at WAMC in Albany with Laura Roth.",
+      "links": [],
+      "press": [],
+      "credits": [
+        [
+          "Together with ",
+          "Laura Roth"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Parky",
+      "year": "",
+      "desc": "A musical written by Carmino Ravosa and performed at Avery Fisher Hall at Lincoln Center.",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "The Limelight",
+      "year": "",
+      "desc": "Nightly pianist in the VIP room of this hot spot club in New York City where Catherine created an open mic and accompanied people such as Grace Jones, Screaming Rachel, Buster Poindexter and others.",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    },
+    {
+      "title": "Freelance",
+      "year": "",
+      "desc": "\nPianist at many restaurants and bars, solo or with bands, and also for weddings, parties and funerals.\n\n",
+      "links": [],
+      "press": [],
+      "credits": [],
+      "buybtn": "",
+      "hyde": false
+    }
+  ],
+  "orchestration": [
+    {
+      "title": "ABC’s One Life to Live",
+      "year": "",
+      "desc": "\n<p>\n    \n    Catherine orchestrated several episodes of the soap opera <a href=\"https://www.imdb.com/title/tt0062595/\">One Life to Live</a> with composer Elizabeth Swados.\n</p>\n\n",
+      "links": [],
+      "press": [],
+      "credits": [
+        [
+          "Together with ",
+          "Elizabeth Swados"
+        ]
+      ],
+      "buybtn": "",
+      "hyde": false
+    }
+  ],
+  "paintings": [
+    {
+      "name": "Dream of Herons",
+      "price": 0,
+      "desc": "",
+      "filename": "dream_of_the_herons.jpg",
+      "portrait": true
+    },
+    {
+      "name": "The Golden River",
+      "price": 0,
+      "desc": "",
+      "filename": "golden_lake.jpg",
+      "portrait": true
+    },
+    {
+      "name": "Le Cycle de Vie d'un Lily",
+      "price": 0,
+      "desc": "",
+      "filename": "lily.jpg",
+      "portrait": false
+    },
+    {
+      "name": "Margaret Was Here",
+      "price": 0,
+      "desc": "",
+      "filename": "margaret_was_here.jpg",
+      "portrait": true
+    },
+    {
+      "name": "Water Lily Song",
+      "price": 0,
+      "desc": "",
+      "filename": "water_lily_song.jpg",
+      "portrait": false
+    },
+    {
+      "name": "Woman on Red Mountain",
+      "price": 0,
+      "desc": "Inspired by an image found online.",
+      "filename": "mountain_music.jpg",
+      "portrait": true
+    },
+    {
+      "name": "Cezannes Oranges Study",
+      "price": 0,
+      "desc": "",
+      "filename": "cezanne_study.jpg",
+      "portrait": true
+    },
+    {
+      "name": "Coneflowers",
+      "price": 0,
+      "desc": "",
+      "filename": "coneflowers.jpg",
+      "portrait": true
+    },
+    {
+      "name": "Still Life Under Lucy's Chair",
+      "price": 0,
+      "desc": "",
+      "filename": "still_life_lucys_chair.jpg",
+      "portrait": true
+    },
+    {
+      "name": "Cypress Trees",
+      "price": 0,
+      "desc": "",
+      "filename": "back_yard.JPG",
+      "portrait": true
+    },
+    {
+      "name": "The Valley",
+      "price": 0,
+      "desc": "",
+      "filename": "valley_painting.JPG",
+      "portrait": true
+    },
+    {
+      "name": "Red, Yellow, and Woman",
+      "price": 0,
+      "desc": "",
+      "filename": "nude_woman.jpg",
+      "portrait": false
+    },
+    {
+      "name": "Angels Need Rest",
+      "price": 0,
+      "desc": "",
+      "filename": "angels_need_rest.JPG",
+      "portrait": true
+    },
+    {
+      "name": "Where I Meet Myself",
+      "price": 0,
+      "desc": "",
+      "filename": "path_pastel.JPG",
+      "portrait": false
+    }
+  ],
+  "teaching": [
+    {
+      "title": "Lake George School District Music Teacher",
+      "year": "1999-2019",
+      "desc": "Choral instructor for junior and senior high choruses and select ensembles, NYSSMA, sound design and recording (PROTOOLS), theory, composition, music history, creating original music theater, musical director for the annual musical, and cabaret club advisor."
+    },
+    {
+      "title": "Metropolitan Opera Education Program",
+      "year": "1992-1996",
+      "desc": "Resident artist teaching all elements of original opera creation at many public schools in the NYC region."
+    },
+    {
+      "title": "The Dalton School, NYC",
+      "year": "1990-1996",
+      "desc": "Faculty member, resident music director, and composer. Introduced and developed original musical theater creation program and computer music program."
+    },
+    {
+      "title": "Capital Region Center for Arts in Education at SUNY and Capital Rep",
+      "year": "1996-1999",
+      "desc": "Teaching artist (with Neal Herr), preparing students in several capital region schools for live theater and chamber music performances."
+    },
+    {
+      "title": "Broadway Theater Institute",
+      "year": "1993-1995",
+      "desc": "Teaching artist for a pilot exchange program between the Dalton School and Newcomb Public School of East Harlem. Guided students to create, produce, and perform original musicals together."
+    },
+    {
+      "title": "The Generations Project",
+      "year": "",
+      "desc": "Guided students to interview residents of independent and assisted living centers and create musicals based on their lives. Performed at area schools, the Hyde Collection, and Eden Park Nursing Home. Also used this model at Lake George High School."
+    },
+    {
+      "title": "Original Music Theater Program",
+      "year": "",
+      "desc": "Year-long residencies to guide students to create, produce, and perform in original musicals at Lake George, Newcomb (upstate), Bolton Landing, and Minerva High Schools."
+    }
+  ]
+}
